@@ -8,6 +8,9 @@
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoss-cubos&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoss-cubos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Tecnologias utilizadas
 
 <div sytle="display: inline_block"><br/>
